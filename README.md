@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Rizqiansyah
-- 👀 I’m interested in Quantitative Finance, statistics and econometrics
-- 🌱 I’m currently learning Machine learning model and volatility models
-- 💞️ I’m looking to collaborate on time series machine learning and extension to volatility models
-- 📫 Email: akbarrizqiansyah@yahoo.com
+Akbar Rizqiansyah
+PhD Student
+Department of Civil Engineering
+Monash University
 
-Shoot me a message. I'm happy to talk with anyone!
+Contact me at akbar.rizqiansyah@monash.edu
 
 <!---
 Rizqiansyah/Rizqiansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
