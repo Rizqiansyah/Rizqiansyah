@@ -1,8 +1,8 @@
-Akbar Rizqiansyah
-PhD Student
-Department of Civil Engineering
-Monash University
-
+<b>Akbar Rizqiansyah</b> <br>
+PhD Student <br>
+Department of Civil Engineering <br>
+Monash University <br>
+<br>
 Contact me at akbar.rizqiansyah@monash.edu
 
 <!---
