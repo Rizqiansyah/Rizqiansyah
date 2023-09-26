@@ -1,7 +1,8 @@
 <b>Akbar Rizqiansyah</b> <br>
-PhD Student <br>
+PhD Candidate/Teaching Assistant <br>
 Department of Civil Engineering <br>
 Monash University <br>
+Australia <br>
 <br>
 Contact me at akbar.rizqiansyah@monash.edu
 
